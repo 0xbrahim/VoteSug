@@ -23,8 +23,8 @@ Note: The style and presentation of the site will be considered when evaluating 
 Each team must deliver a 10-minute demonstration of the site. The instructor will quiz the students during the demonstration. The grades for individual students may vary depending on the student performance during the demonstration.
 
 Your team must submit the following items:
-1-	All files including html, css, JavaScript, PhP, and MySql related files.
-2-	Screenshots presenting several use scenarios of the website.
+1- All files including html, css, JavaScript, PhP, and MySql related files.
+2- Screenshots presenting several use scenarios of the website.
 
 You are required to use HTML, CSS, Bootstrap, JavaScript, PhP, and MySQL. Only use the features of the languages and tools that are covered in the class, e.g., do not use jQuery. 
 
