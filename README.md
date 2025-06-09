@@ -35,6 +35,7 @@ Your team must submit the following items:
 You are required to use HTML, CSS, Bootstrap, JavaScript, PhP, and MySQL. Only use the features of the languages and tools that are covered in the class, e.g., do not use jQuery. 
 
 =================
+
 Screenshots presenting several use scenarios of the website.
 Home page:
 ![image](https://github.com/user-attachments/assets/caa51e1e-52ae-43e6-872f-7ecd7d26b631)
