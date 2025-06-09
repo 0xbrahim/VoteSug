@@ -1,0 +1,96 @@
+		
+	body.bg {
+	background-image: url('WW.jpg');;
+	background-size: 1920px  1080px; 
+}
+
+
+	footer {
+	background-color: #848ccf;
+	padding: 3.1%;
+	color: #fff;
+	text-align: center;
+}
+
+
+	/* Button used to open the contact form - fixed at the bottom of the page */
+	.open-button {
+	background-color: #848ccf;
+	cursor: pointer;
+	position: absolute;
+	top: 15%;
+	left: 80%;
+	margin: 10px;
+	padding: 10px;
+	border:solid;
+	border-width:thin;
+	color: white;
+	border-radius: 10px;
+}
+
+	
+	.open-button:hover {
+	background:#a3a0a9;
+	cursor: pointer;
+	color: #392e4a;
+	}
+	
+
+	/* The popup form - hidden by default */
+	.form-popup {
+	display: none;
+	position: fixed;
+	top: 20%;
+	right: 40%;
+	border: 2px solid black;
+	border-width:thin;
+	border-radius: 10px;
+	background-color: #848ccf;
+	width: 20%;
+
+	
+}
+
+	/* Add styles to the form container */
+	.form-container {
+  	max-width: 300px;
+  	padding: 10px;
+  	background-color: #848ccf;
+	border-radius: 10px;
+
+  
+}
+
+	/* Full-width input fields */
+	.form-container input[type=text], .form-container input[type=password] {
+  	width: 100%;
+  	padding: 10px;
+  	margin: 5px 0 22px 0;
+  	border: none;
+	
+}
+
+
+	/* Set a style for the submit/login button */
+	.form-container .btn {
+  	background-color: #d5b8ff;
+  	color: black;
+  	padding: 16px 20px;
+  	border: solid;
+  	border-width:thin;
+  	width: 100%;
+  	margin-bottom:10px;
+	
+}
+
+
+	/* Add a red background color to the cancel button */
+	.form-container .cancel {
+	 background-color: #d64541;
+	padding: 16px 20px;
+  	border: solid;
+  	border-width:thin;
+  	width: 100%;
+  	margin-bottom:10px;
+	  
+}

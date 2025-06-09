@@ -1,0 +1,115 @@
+	body.bg {
+	background-image: url('WW.jpg');;
+	background-size: 1920px  1080px; 
+}
+
+
+	footer {
+	background-color: #848ccf;
+	padding: 3%;
+	color: #fff;
+	text-align: center;
+}	
+		
+	/* Create Suggestion button */
+	Button.open-buttonCS {
+	background-color: #848ccf;
+	cursor: pointer;
+	position: absolute;
+	top: 15%;
+	left: 65%;
+	margin: 10px;
+	padding: 10px;
+	border:solid;
+	border-width:thin;
+	color: white;
+	border-radius: 10px;
+}
+
+	/*Create Suggestion button hover*/
+	.open-buttonCS:hover {
+	background:#a3a0a9;
+	cursor: pointer;
+	color: #392e4a;
+	}
+		
+
+/* Sign out button */
+	Button.open-buttonSo {
+	background-color: #848ccf;
+	cursor: pointer;
+	position: absolute;
+	top: 15%;
+	left: 80%;
+	margin: 10px;
+	padding: 10px;
+	border:solid;
+	border-width:thin;
+	color: white;
+	border-radius: 10px;
+}	
+	
+	
+	/*Sign out button hover*/
+	.open-buttonSo:hover {
+	background:#a3a0a9;
+	cursor: pointer;
+	color: #392e4a;
+	}
+
+
+	/* votes button */
+	Button.open-buttonDet {
+	background-color: #848ccf;
+	cursor: pointer;
+	padding: 10px;
+	border:solid;
+	border-width:thin;
+	color: white;
+	border-radius: 10px;
+}	
+	
+	
+	/* votes button hover*/
+	.open-buttonDet:hover {
+	background:#a3a0a9;
+	cursor: pointer;
+	color: #392e4a;
+	}
+	
+	
+	/* The popup form - hidden by default */
+	.form-popup {
+	display: none;
+	position: fixed;
+	top: 30%;
+	right: 250px;
+	border: 2px solid black;
+	border-width:thin;
+	padding: 50px;
+	background-color: #848ccf;
+	border-radius: 10px;
+}
+
+
+	/* Delete button */
+	a.open-buttonDelete {
+	background-color: #848ccf;
+	cursor: pointer;
+	padding: 8px;
+	border:solid;
+	border-width:thin;
+	color: white;
+	border-radius: 8px;
+	text-decoration: none;
+}	
+	
+	
+	/*Sign out button hover*/
+	.open-buttonDelete:hover {
+	background:#a3a0a9;
+	cursor: pointer;
+	color: #392e4a;
+	}
+
+

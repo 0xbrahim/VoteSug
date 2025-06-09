@@ -1,0 +1,78 @@
+	body.bg {
+	background-image: url('WW.jpg');;
+	background-size: 1920px  1080px; 
+	
+}
+
+	footer {
+	background-color: #848ccf;
+	padding: 3%;
+	color: #fff;
+	text-align: center;
+}
+	
+		
+/* Sign out button */
+	Button.open-buttonSo {
+	background-color: #848ccf;
+	cursor: pointer;
+	position: absolute;
+	top: 15%;
+	left: 80%;
+	margin: 10px;
+	padding: 10px;
+	border:solid;
+	border-width:thin;
+	color: white;
+	border-radius: 10px;
+}	
+	
+	/*Sign out button hover*/
+	.open-buttonSo:hover {
+	background:#a3a0a9;
+	cursor: pointer;
+	color: #392e4a;
+}
+	
+/*Submit votes button*/
+	input[type=submit] {
+    background-color: #848ccf;
+	cursor: pointer;
+	padding: 10px;
+	border:solid;
+	border-width:thin;
+	color: white;
+	border-radius: 10px;
+}
+/*Submit votes button hover*/
+	input[type=submit]:hover {
+	background:#a3a0a9;
+	cursor: pointer;
+	color: #392e4a;
+}
+
+/* Style for the select element */
+	select {
+	font-size: 16px;
+	padding: 10px;
+	border: 1px solid white;
+	border-radius: 6px;
+	color: white;
+	background-color: #848ccf;
+	width: 120px;
+}
+/* Select hover */
+	select:hover {
+	background:#a3a0a9;
+	cursor: pointer;
+	color: #392e4a;
+	border: 1px solid black;
+	}
+
+/* Style for the option elements */
+	option {
+	font-size: 16px;
+	padding: 5px 10px;
+	background-color: #fff;
+	color: #333;
+}
