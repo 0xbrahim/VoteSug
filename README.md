@@ -1,4 +1,4 @@
-VoteSug Project:
+💻🕸️ Web Development course project from my Bachelor's degree journey.
 
 ----
 Instructions:
