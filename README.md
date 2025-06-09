@@ -16,13 +16,7 @@ The Team Lead should be able to view his/her proposed suggestions, including the
 
 We will assume that the website will be used specifically by the following team:
 
-User Role	    Username	Password
-Team Lead	    Ahmed19	    h7d0sds
-Team Member	    Nora812	    #ui321r
-Team Member	    Nasir723	Esa312p
-Team Member	    Mike832	    hewq023#
-Team Member	    John999	    Q23FF9#a
-Team Member	    Rola100	    H3a##Mbu
+![Screenshot from 2025-06-09 18-28-40](https://github.com/user-attachments/assets/b8194a52-125f-4d55-a9e2-343dd84ea3ce)
 
 Note: The style and presentation of the site will be considered when evaluating the project. Ensure the correct implementation of user sign-in and the proper use of sessions.
 
