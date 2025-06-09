@@ -46,16 +46,23 @@ Team Lead page:
 
 
 This is the team lead page, it welcomes the team leader with his name, it contains the suggestions with the number, description, and the creation date of each suggestion, besides, it contains 4 buttons:
+
 1- Sign out
+
 2- Create suggestion
+
 3- Delete: this button to delete suggestion from the database.
+
 4- Votes: when click this button, it will show the current voting results: number of members who voted Yes, No, and Undecided.
 ![image](https://github.com/user-attachments/assets/2c071b86-a100-4989-b4c2-75e64d7c3191)
 
 
 After the team lead press Create suggestion button, this window will appear and it contain 3 buttons:
+
 1-  X: to close the window.
+
 2- Cancel: it is just a reset button; it deletes what the team lead wrote.
+
 3- Submit: It send the suggestion to the database.
 ![image](https://github.com/user-attachments/assets/d7d8eab3-a5d8-43e2-be24-1bc331b5be72)
 
